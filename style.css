@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+}
+/* All <h2> elements. */
+h2 {color: purple;}
+
+li{color: teal;}
+
+li {  font-size: large;}
+
+img{width:400px;}
+html{background-image:url(https://static.zerochan.net/Saber.%28Fate.stay.night%29.full.1890530.jpg)
